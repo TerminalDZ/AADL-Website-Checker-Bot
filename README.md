@@ -4,8 +4,7 @@ This program checks the status of the AADL website and sends alerts via Telegram
 
 هذا البرنامج يقوم بالتحقق من حالة موقع AADL وإرسال تنبيهات عبر Telegram.
 
-[فيديو شرح | Explanation video ]([https://www.tiktok.com/@terminal.dz/video/7388716489731362053](https://www.tiktok.com/@terminal.dz/video/7388716489731362053)
-)
+[فيديو شرح | Explanation video ](https://www.tiktok.com/@terminal.dz/video/7388716489731362053))
 
 ## Installation / التثبيت
 
