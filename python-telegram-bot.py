@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 DEFAULT_CONFIG = {
-    'TELEGRAM_TOKEN': '5756817206:AAGuiJf4n8O-QqewVfktB5QFxIfLIQWyQrw',
+    'TELEGRAM_TOKEN': 'TELEGRAM_TOKEN',
     'URL': 'https://aadl3inscription2024.dz/AR/Inscription-desktop.php',
     'CHECK_INTERVAL': 10
 }
